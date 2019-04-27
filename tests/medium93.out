@@ -373,7 +373,7 @@
 373: TAK
 374: TAK
 375: NIE
-376: NIE
+376: TAK
 377: NIE
 378: TAK
 379: 
@@ -411,7 +411,7 @@
 411: NIE
 412: NIE
 413: 542;csoyizmzsjlaqwqakntpdrgggsn;16;-2;uvbahguyjexpwpwfdugisjcgoemfz;22;3;ltokorrvki;5;-15;ttkmfcaeijzbhpmsiziqf;15;-13;hnsxaeswfw
-414: 437;csoyizmzsjlaqwqakntpdrgggsn;18;3;jatndbmbfzi;4;14;tpbiwgqshjoyadwdtodaeqvq;4;10;ltokorrvki;21;-12;loimvtfqvodpmfveb
+414: 437;csoyizmzsjlaqwqakntpdrgggsn;10;6;yofdivbquproycqqagqltmcwdiel;8;2;zehutyojltmoggpcmgsxanj;26;14;jatndbmbfzi;4;14;tpbiwgqshjoyadwdtodaeqvq;4;10;ltokorrvki;21;-12;loimvtfqvodpmfveb
 415: NIE
 416: NIE
 417: 482;ltokorrvki;7;-2;zehutyojltmoggpcmgsxanj
@@ -424,10 +424,10 @@
 424: TAK
 425: TAK
 426: NIE
-427: 437;csoyizmzsjlaqwqakntpdrgggsn;18;3;jatndbmbfzi;4;14;tpbiwgqshjoyadwdtodaeqvq;4;10;ltokorrvki;21;-12;loimvtfqvodpmfveb
+427: 437;csoyizmzsjlaqwqakntpdrgggsn;10;6;yofdivbquproycqqagqltmcwdiel;8;2;zehutyojltmoggpcmgsxanj;25;8;rbmrhkifwsnkxsse;27;7;jatndbmbfzi;4;14;tpbiwgqshjoyadwdtodaeqvq;4;10;ltokorrvki;21;-12;loimvtfqvodpmfveb
 428: NIE
 429: 
-430: 907;uzdsgvzxsdgfrpmzezzhkst;20;8;oifinnybjrkspupolm;28;-15;avadwjjqisufhswfybbektpobfsom;23;-15;ttkmfcaeijzbhpmsiziqf;5;-15;ltokorrvki;4;10;tpbiwgqshjoyadwdtodaeqvq;4;14;jatndbmbfzi;18;3;csoyizmzsjlaqwqakntpdrgggsn;10;6;yofdivbquproycqqagqltmcwdiel;8;2;zehutyojltmoggpcmgsxanj;19;8;loimvtfqvodpmfveb
+430: 907;uzdsgvzxsdgfrpmzezzhkst;20;8;oifinnybjrkspupolm;28;-15;avadwjjqisufhswfybbektpobfsom;23;-15;ttkmfcaeijzbhpmsiziqf;5;-15;ltokorrvki;4;10;tpbiwgqshjoyadwdtodaeqvq;4;14;jatndbmbfzi;27;7;rbmrhkifwsnkxsse;25;8;zehutyojltmoggpcmgsxanj;19;8;loimvtfqvodpmfveb
 431: TAK
 432: TAK
 433: 852;jatndbmbfzi;4;14;tpbiwgqshjoyadwdtodaeqvq;4;10;ltokorrvki;21;-12;loimvtfqvodpmfveb
@@ -471,7 +471,7 @@
 471: TAK
 472: TAK
 473: TAK
-474: TAK
+474: NIE
 475: TAK
 476: TAK
 477: 255;rbmrhkifwsnkxsse;24;-5;xvekfjqttaewpxkkiocdhhqw;27;-14;jatndbmbfzi;4;14;tpbiwgqshjoyadwdtodaeqvq;4;10;ltokorrvki;22;3;uvbahguyjexpwpwfdugisjcgoemfz;16;-2;csoyizmzsjlaqwqakntpdrgggsn
@@ -482,7 +482,7 @@
 482: 
 483: NIE
 484: NIE
-485: TAK
+485: NIE
 486: TAK
 487: 255;rbmrhkifwsnkxsse;24;-5;xvekfjqttaewpxkkiocdhhqw;27;-14;jatndbmbfzi;4;14;tpbiwgqshjoyadwdtodaeqvq;4;10;ltokorrvki;22;3;uvbahguyjexpwpwfdugisjcgoemfz;16;-2;csoyizmzsjlaqwqakntpdrgggsn
 488: TAK

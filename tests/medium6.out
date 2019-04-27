@@ -297,7 +297,7 @@
 297: NIE
 298: NIE
 299: TAK
-300: NIE
+300: TAK
 301: NIE
 302: NIE
 303: TAK
@@ -342,7 +342,7 @@
 342: TAK
 343: 95;ngqssqdzlr;12;7;cmyjeuonmrxdqaxgpcpyoleoyue;6;2;dignrnzxajtrmechvnp;23;8;wazvsbrljqshovmqjqobkplkhes;2;-9;eyjpaoggjiya;16;3;efcnwegqmopdgbnlmuqjxorenli;14;9;bmnxendeoeuxdknpwuw;8;-13;dgpbirzbsqodgjmueymqqara
 344: NIE
-345: 
+345: 944;nwwzhpbtugix;23;-13;kjfkglktrcljtokghyhsmjtakcf;1;-14;efcnwegqmopdgbnlmuqjxorenli;16;3;eyjpaoggjiya
 346: 980;coewpszkastflyo;5;-15;fnxttfedfejgsygwljaapxzuj;11;2;efcnwegqmopdgbnlmuqjxorenli;1;-14;kjfkglktrcljtokghyhsmjtakcf
 347: NIE
 348: 
@@ -355,7 +355,7 @@
 355: NIE
 356: TAK
 357: NIE
-358: NIE
+358: TAK
 359: TAK
 360: 
 361: NIE
@@ -443,7 +443,7 @@
 443: NIE
 444: TAK
 445: NIE
-446: NIE
+446: TAK
 447: NIE
 448: NIE
 449: NIE
@@ -454,7 +454,7 @@
 454: NIE
 455: 
 456: NIE
-457: NIE
+457: TAK
 458: TAK
 459: TAK
 460: NIE
