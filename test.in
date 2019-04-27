@@ -1,0 +1,27 @@
+# to jest komentarz
+# puste linie i komentarze są ignorowane
+
+addRoad;Alinów;Bór;1;2020
+addRoad;Bór;Cielińsk-Niekłańsk;2;2020
+addRoad;Bór;Dąb Stary;3;2020
+addRoad;Cielińsk-Niekłańsk;Emiliew;4;2020
+addRoad;Dąb Stary;Emiliew;5;2020
+addRoad;Emiliew;Bór;8;2020
+addRoad;Emiliew;Fraźnik Nowy;3;2020
+repairRoad;Emiliew;Cielińsk-Niekłańsk;2019
+repairRoad;Emiliew;Cielińsk-Niekłańsk;2021
+repairRoad;Emiliew;Alinów;2020
+addRoad;Fraźnik Nowy;Grzegrzewo;4;2020
+addRoad;Alinów;Grzegrzewo;10;2020
+addRoad;Homilcin;Grzegrzewo;5;2020
+addRoad;Fraźnik Nowy;Cielińsk-Niekłańsk;2;2020
+addRoad;Fraźnik Nowy;Cielińsk-Niekłańsk;2;2020
+addRoad;Cielińsk-Niekłańsk;Fraźnik Nowy;2;2020
+repairRoad;Emiliew;Bór;2018
+repairRoad;Emiliew;Cielińsk-Niekłańsk;2021
+repairRoad;Emiliew;Fraźnik Nowy;2023
+addRoad;Homilcin;Cielińsk-Niekłańsk;3;2020
+newRoute;10;Alinów;Emiliew
+getRouteDescription;10
+extendRoute;10;Homilcin
+getRouteDescription;10
