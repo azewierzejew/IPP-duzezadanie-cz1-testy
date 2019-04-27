@@ -339,12 +339,12 @@
 339: NIE
 340: TAK
 341: NIE
-342: TAK
+342: NIE
 343: TAK
 344: TAK
 345: 
 346: NIE
-347: NIE
+347: TAK
 348: NIE
 349: NIE
 350: TAK
@@ -410,14 +410,14 @@
 410: NIE
 411: 163;bzhamyneeonoxttepekm;6;8;pmellxxyzelkmufglhr
 412: NIE
-413: NIE
+413: TAK
 414: TAK
 415: NIE
 416: NIE
 417: 247;yduebvkndqlrciwtwndxato;14;11;gsdvonxkyzkqqdiuku;15;12;rmpibmppwjtvbrv;10;13;krnxhmhsdzr
 418: TAK
 419: NIE
-420: TAK
+420: NIE
 421: NIE
 422: NIE
 423: NIE
@@ -459,7 +459,7 @@
 459: NIE
 460: NIE
 461: TAK
-462: NIE
+462: TAK
 463: TAK
 464: NIE
 465: 187;tpzjbbmctolwcup;16;-9;pmellxxyzelkmufglhr;16;-9;yrklcgnkgi;7;7;phvnibbunxcvijnwr;3;-5;finjybohluilbkzbydgoqwmmssdyf;10;-11;yduebvkndqlrciwtwndxato;14;11;gsdvonxkyzkqqdiuku;15;12;rmpibmppwjtvbrv;10;13;krnxhmhsdzr;25;5;evbuvgeqndgi;11;5;bzhamyneeonoxttepekm;23;10;mxlpxklppxtzviisxqtalixnehwrd
@@ -474,7 +474,7 @@
 474: TAK
 475: NIE
 476: TAK
-477: NIE
+477: TAK
 478: NIE
 479: 
 480: 535;yrqrqcfkxkicznozilzi;7;14;krnxhmhsdzr;10;13;rmpibmppwjtvbrv
