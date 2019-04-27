@@ -5,9 +5,9 @@ Plik test.in to test przykładowy z map_main.c dostarczonego przez prowadzących
 Plik map_main.c raczej nie powinien sam z siebie powodować wycieków pamięci.
 
 Czego moje testy nie sprawdzają:
-	– obsługa wielu map,
-	– sprawdzanie poprawności nazw miast,
-	– mogą nie sprawdzać idealnie poprawności wyszukiwania dróg krajowych.
+* obsługa wielu map,
+* sprawdzanie poprawności nazw miast,
+* mogą nie sprawdzać idealnie poprawności wyszukiwania dróg krajowych.
 
 Outy oczywiście mogą nie być poprawne.
 
@@ -16,7 +16,7 @@ Format wejścia:
 
 Kolejne linie opisują poszczególne komendy w następujący sposób.
 
-nazwakomendy;arg1;arg2;...;argn
+`nazwakomendy;arg1;arg2;...;argn`
 
 gdzie n – liczba argumentów dla komendy.
 
