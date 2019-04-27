@@ -2024,7 +2024,7 @@
 2024: TAK
 2025: NIE
 2026: TAK
-2027: NIE
+2027: TAK
 2028: TAK
 2029: TAK
 2030: TAK
@@ -3072,7 +3072,7 @@
 3072: TAK
 3073: NIE
 3074: NIE
-3075: NIE
+3075: TAK
 3076: TAK
 3077: TAK
 3078: 
@@ -3110,7 +3110,7 @@
 3110: NIE
 3111: NIE
 3112: TAK
-3113: 319;bgmpmhctkpyanpzngk;3;5;romipoyeplm;1;12;jjkajvflfetxmwdurzhmf;11;11;dkdleoxjotmisppkhejxtfkqejc;11;8;oohmzstqyxygygspt;1;-14;evlhbmdoyryyqj;6;11;drzbhpsnznmtnxzxkhek
+3113: 319;drzbhpsnznmtnxzxkhek;6;-11;geshpxnsgbjguw;6;-6;gdhlpxrkdmgkorvwbyxjgsua;1;-1;znevymzvjvmet;1;14;jpsntnodpbvyzkrnugs;2;7;bgmpmhctkpyanpzngk;3;5;romipoyeplm;1;12;jjkajvflfetxmwdurzhmf;11;11;dkdleoxjotmisppkhejxtfkqejc
 3114: NIE
 3115: TAK
 3116: TAK
@@ -3164,7 +3164,7 @@
 3164: 
 3165: TAK
 3166: NIE
-3167: 
+3167: 228;oohmzstqyxygygspt;1;-14;evlhbmdoyryyqj;5;-6;wdeligsultnisvwzhymltmzthjqvp;1;13;geshpxnsgbjguw;2;13;ouuujijlym
 3168: 
 3169: TAK
 3170: 132;qweeljiiuipuwse;5;-8;znevymzvjvmet;1;14;jpsntnodpbvyzkrnugs;2;5;tjycqjzjolbv;7;-1;xjlcbmuszfblgngnal;2;9;qqpdkvxsxjekmffygxzogullda
@@ -3438,7 +3438,7 @@
 3438: NIE
 3439: NIE
 3440: TAK
-3441: 319;bgmpmhctkpyanpzngk;3;5;romipoyeplm;1;12;jjkajvflfetxmwdurzhmf;11;11;dkdleoxjotmisppkhejxtfkqejc;11;8;oohmzstqyxygygspt;1;10;evlhbmdoyryyqj;6;11;drzbhpsnznmtnxzxkhek
+3441: 319;drzbhpsnznmtnxzxkhek;6;-11;geshpxnsgbjguw;6;-6;gdhlpxrkdmgkorvwbyxjgsua;1;-1;znevymzvjvmet;1;14;jpsntnodpbvyzkrnugs;2;7;bgmpmhctkpyanpzngk;3;5;romipoyeplm;1;12;jjkajvflfetxmwdurzhmf;11;11;dkdleoxjotmisppkhejxtfkqejc
 3442: TAK
 3443: NIE
 3444: NIE
@@ -3473,7 +3473,7 @@
 3473: NIE
 3474: NIE
 3475: NIE
-3476: NIE
+3476: TAK
 3477: TAK
 3478: TAK
 3479: NIE
@@ -3663,7 +3663,7 @@
 3663: NIE
 3664: NIE
 3665: NIE
-3666: TAK
+3666: NIE
 3667: NIE
 3668: NIE
 3669: TAK
@@ -3702,7 +3702,7 @@
 3702: TAK
 3703: 818;ajkmdbvkyszijtxdingyrd;9;12;wdeligsultnisvwzhymltmzthjqvp;1;13;geshpxnsgbjguw;6;-6;gdhlpxrkdmgkorvwbyxjgsua;1;-1;znevymzvjvmet;5;-8;qweeljiiuipuwse;5;1;evlhbmdoyryyqj;1;-7;qqpdkvxsxjekmffygxzogullda;2;9;xjlcbmuszfblgngnal;1;15;ouuujijlym;3;12;oohmzstqyxygygspt;4;-12;romipoyeplm;1;12;jjkajvflfetxmwdurzhmf
 3704: NIE
-3705: 508;wdumndcxkye;1;10;drzbhpsnznmtnxzxkhek;6;-14;xjlcbmuszfblgngnal
+3705: 508;gdcvjlhrfbi;11;-11;gcvvvqtyrsjzmdahjeztvyiof;10;-8;ouuujijlym;2;13;geshpxnsgbjguw
 3706: NIE
 3707: TAK
 3708: NIE
@@ -4227,7 +4227,7 @@
 4227: TAK
 4228: NIE
 4229: NIE
-4230: 
+4230: 263;izzlnqsopfhkgusryzye;3;-11;evlhbmdoyryyqj;1;-7;qqpdkvxsxjekmffygxzogullda;2;9;xjlcbmuszfblgngnal;1;15;ouuujijlym;3;12;oohmzstqyxygygspt;3;2;lopalwmhoiksddcvzianrivnrm
 4231: NIE
 4232: NIE
 4233: TAK
@@ -4319,7 +4319,7 @@
 4319: NIE
 4320: NIE
 4321: NIE
-4322: 508;wdumndcxkye;1;10;drzbhpsnznmtnxzxkhek;6;-14;xjlcbmuszfblgngnal
+4322: 508;gdcvjlhrfbi;11;-2;gcvvvqtyrsjzmdahjeztvyiof;10;-8;ouuujijlym;2;13;geshpxnsgbjguw
 4323: NIE
 4324: TAK
 4325: NIE
@@ -4417,7 +4417,7 @@
 4417: TAK
 4418: NIE
 4419: NIE
-4420: NIE
+4420: TAK
 4421: NIE
 4422: NIE
 4423: NIE
@@ -4580,7 +4580,7 @@
 4580: TAK
 4581: NIE
 4582: NIE
-4583: NIE
+4583: TAK
 4584: TAK
 4585: NIE
 4586: NIE
@@ -4590,7 +4590,7 @@
 4590: NIE
 4591: NIE
 4592: TAK
-4593: NIE
+4593: TAK
 4594: TAK
 4595: NIE
 4596: TAK
@@ -4866,7 +4866,7 @@
 4866: 852;izisgbdivulugojcndsasr;14;5;odifrhlpxfmuqudeur;6;4;dkdleoxjotmisppkhejxtfkqejc
 4867: NIE
 4868: NIE
-4869: NIE
+4869: TAK
 4870: TAK
 4871: TAK
 4872: NIE
@@ -4875,7 +4875,7 @@
 4875: NIE
 4876: NIE
 4877: NIE
-4878: TAK
+4878: NIE
 4879: NIE
 4880: TAK
 4881: NIE
