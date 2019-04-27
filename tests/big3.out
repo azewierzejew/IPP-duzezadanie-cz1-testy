@@ -811,7 +811,7 @@
 811: TAK
 812: NIE
 813: 125;mvfyjqpnilt;10;12;rkdzmyjjbssmyzhmtbbrieb;28;-7;zfecmlxlibwyewguk
-814: TAK
+814: NIE
 815: TAK
 816: TAK
 817: TAK
@@ -1067,7 +1067,7 @@
 1067: 
 1068: NIE
 1069: NIE
-1070: TAK
+1070: NIE
 1071: NIE
 1072: TAK
 1073: 756;hhsxkloqguxthvz;17;-2;uvivhwudwk;5;14;qufrcvivexzlylkqdeyzvb
@@ -1284,7 +1284,7 @@
 1284: TAK
 1285: TAK
 1286: TAK
-1287: TAK
+1287: NIE
 1288: NIE
 1289: TAK
 1290: 
@@ -1320,7 +1320,7 @@
 1320: NIE
 1321: NIE
 1322: NIE
-1323: 180;rrojvbvhhugvzvfzkfvylinwbc;5;11;jncgamxqrufwpdqqulkljr;8;6;jwbwjnbllrdary;2;-9;htxvbkqdaip;7;-13;uvivhwudwk;16;4;mvfyjqpnilt;10;12;rkdzmyjjbssmyzhmtbbrieb
+1323: 
 1324: NIE
 1325: TAK
 1326: NIE
@@ -1746,7 +1746,7 @@
 1746: NIE
 1747: NIE
 1748: TAK
-1749: TAK
+1749: NIE
 1750: TAK
 1751: 916;hhsxkloqguxthvz;5;2;mgklztgyuyisolhoqjbr;11;-1;oqkluhkhhyrabxycvzwhwd;1;-5;hxdjhiefvmusp;11;-6;mvfyjqpnilt
 1752: TAK
@@ -1861,7 +1861,7 @@
 1861: NIE
 1862: NIE
 1863: TAK
-1864: TAK
+1864: NIE
 1865: NIE
 1866: NIE
 1867: TAK
@@ -1950,7 +1950,7 @@
 1950: TAK
 1951: TAK
 1952: NIE
-1953: TAK
+1953: NIE
 1954: TAK
 1955: TAK
 1956: NIE
@@ -2153,7 +2153,7 @@
 2153: TAK
 2154: NIE
 2155: NIE
-2156: 577;kfenjpwaqjlqbupuecoxxitonm;6;-7;gqrhxdazgtjkwcqovimyd;9;-7;oqkluhkhhyrabxycvzwhwd
+2156: 
 2157: NIE
 2158: NIE
 2159: NIE
@@ -2384,7 +2384,7 @@
 2384: TAK
 2385: NIE
 2386: TAK
-2387: 577;kfenjpwaqjlqbupuecoxxitonm;6;-7;gqrhxdazgtjkwcqovimyd;5;11;uatzamyiumtdknkuxkxnhqofvnf;3;-1;hxdjhiefvmusp;1;-5;oqkluhkhhyrabxycvzwhwd
+2387: 
 2388: NIE
 2389: 54;htxvbkqdaip;2;-14;wjynveringhpwsaovx;2;-2;mgklztgyuyisolhoqjbr;5;-12;odtrdtehmkxesvjuwsqhcmlubgc
 2390: TAK
@@ -2601,7 +2601,7 @@
 2601: NIE
 2602: NIE
 2603: NIE
-2604: 577;kfenjpwaqjlqbupuecoxxitonm;6;-7;gqrhxdazgtjkwcqovimyd;5;11;uatzamyiumtdknkuxkxnhqofvnf;3;-1;hxdjhiefvmusp;1;-5;oqkluhkhhyrabxycvzwhwd
+2604: 
 2605: TAK
 2606: NIE
 2607: NIE
@@ -2736,7 +2736,7 @@
 2736: TAK
 2737: NIE
 2738: TAK
-2739: TAK
+2739: NIE
 2740: NIE
 2741: 
 2742: NIE
@@ -2879,7 +2879,7 @@
 2879: TAK
 2880: 487;imjhyuehhabqvtbwcxzyio;10;-9;atgonbzkivhnttgvql;1;13;hxdjhiefvmusp;3;-1;uatzamyiumtdknkuxkxnhqofvnf;5;11;gqrhxdazgtjkwcqovimyd;11;10;odtrdtehmkxesvjuwsqhcmlubgc;19;2;mvfyjqpnilt;11;10;vtzrturvgpfdbbgno;14;-10;kfenjpwaqjlqbupuecoxxitonm;14;-14;rkdzmyjjbssmyzhmtbbrieb;15;13;oqkluhkhhyrabxycvzwhwd;20;-4;jwbwjnbllrdary;3;12;mgklztgyuyisolhoqjbr;2;-2;wjynveringhpwsaovx;1;-6;uvivhwudwk;5;14;qufrcvivexzlylkqdeyzvb;11;-1;hhsxkloqguxthvz;21;11;rrojvbvhhugvzvfzkfvylinwbc;23;3;tmdlpltpqjkk
 2881: TAK
-2882: TAK
+2882: NIE
 2883: NIE
 2884: NIE
 2885: NIE
@@ -3438,7 +3438,7 @@
 3438: TAK
 3439: NIE
 3440: 425;rkdzmyjjbssmyzhmtbbrieb;15;13;oqkluhkhhyrabxycvzwhwd;1;-5;hxdjhiefvmusp;1;13;atgonbzkivhnttgvql;11;-2;tmdlpltpqjkk;23;3;rrojvbvhhugvzvfzkfvylinwbc;27;4;hbkgzpymdm
-3441: TAK
+3441: NIE
 3442: TAK
 3443: NIE
 3444: NIE
@@ -3461,7 +3461,7 @@
 3461: NIE
 3462: NIE
 3463: 578;kmzyfqnooqmvygc;11;3;pbggadottdh
-3464: TAK
+3464: NIE
 3465: TAK
 3466: 411;uatzamyiumtdknkuxkxnhqofvnf;5;11;gqrhxdazgtjkwcqovimyd;11;10;odtrdtehmkxesvjuwsqhcmlubgc;12;-7;oqkluhkhhyrabxycvzwhwd;11;-1;mgklztgyuyisolhoqjbr;3;12;jwbwjnbllrdary;8;8;wjynveringhpwsaovx;2;-14;htxvbkqdaip;13;-1;hhsxkloqguxthvz;12;-3;kmzyfqnooqmvygc;10;8;kfenjpwaqjlqbupuecoxxitonm;14;7;rkdzmyjjbssmyzhmtbbrieb;1;14;rrojvbvhhugvzvfzkfvylinwbc;1;-14;cxykgwdgzbedw;5;15;dsrqxdvpnyqbyzmc;5;5;sixqanxfclzdtcuajmzwz;25;11;imjhyuehhabqvtbwcxzyio
 3467: 
@@ -3484,7 +3484,7 @@
 3484: TAK
 3485: NIE
 3486: TAK
-3487: TAK
+3487: NIE
 3488: TAK
 3489: NIE
 3490: NIE
@@ -3501,7 +3501,7 @@
 3501: NIE
 3502: NIE
 3503: NIE
-3504: 180;rrojvbvhhugvzvfzkfvylinwbc;1;-14;cxykgwdgzbedw;5;15;dsrqxdvpnyqbyzmc;5;5;sixqanxfclzdtcuajmzwz;1;8;tmdlpltpqjkk;8;14;oqkluhkhhyrabxycvzwhwd;1;-5;hxdjhiefvmusp;3;-1;uatzamyiumtdknkuxkxnhqofvnf;3;-13;jncgamxqrufwpdqqulkljr;8;6;jwbwjnbllrdary;2;-9;htxvbkqdaip;7;8;uvivhwudwk;16;4;mvfyjqpnilt;3;6;hhsxkloqguxthvz;11;10;rkdzmyjjbssmyzhmtbbrieb
+3504: 
 3505: NIE
 3506: 130;hbkgzpymdm;8;-4;qufrcvivexzlylkqdeyzvb;11;10;dsrqxdvpnyqbyzmc;5;15;cxykgwdgzbedw
 3507: 763;qufrcvivexzlylkqdeyzvb;1;-6;rrojvbvhhugvzvfzkfvylinwbc;1;14;rkdzmyjjbssmyzhmtbbrieb;2;-7;mgklztgyuyisolhoqjbr;2;-2;wjynveringhpwsaovx
@@ -3979,10 +3979,10 @@
 3979: NIE
 3980: NIE
 3981: 301;uvivhwudwk;7;8;htxvbkqdaip
-3982: TAK
+3982: NIE
 3983: TAK
 3984: TAK
-3985: 775;uvivhwudwk;5;14;qufrcvivexzlylkqdeyzvb;1;-6;rrojvbvhhugvzvfzkfvylinwbc;1;14;rkdzmyjjbssmyzhmtbbrieb;8;8;atgonbzkivhnttgvql;1;13;hxdjhiefvmusp
+3985: 
 3986: NIE
 3987: NIE
 3988: NIE
@@ -4331,7 +4331,7 @@
 4331: NIE
 4332: 123;htxvbkqdaip;11;15;cxcdqlblllfcwos;3;14;uvivhwudwk;17;-2;hhsxkloqguxthvz;3;6;mvfyjqpnilt;11;-6;hxdjhiefvmusp;17;9;mgklztgyuyisolhoqjbr;3;12;jwbwjnbllrdary;8;8;wjynveringhpwsaovx;19;-5;gqrhxdazgtjkwcqovimyd;23;-3;kmzyfqnooqmvygc;16;-2;atgonbzkivhnttgvql;11;-2;tmdlpltpqjkk;25;12;uatzamyiumtdknkuxkxnhqofvnf;25;1;zfecmlxlibwyewguk;15;9;pbggadottdh;4;10;aqenmkewxmfokyp;18;9;odtrdtehmkxesvjuwsqhcmlubgc;11;12;qufrcvivexzlylkqdeyzvb;8;-4;hbkgzpymdm;2;12;imjhyuehhabqvtbwcxzyio;25;11;sixqanxfclzdtcuajmzwz;5;9;dsrqxdvpnyqbyzmc;28;12;kfenjpwaqjlqbupuecoxxitonm;14;7;rkdzmyjjbssmyzhmtbbrieb;15;13;oqkluhkhhyrabxycvzwhwd
 4333: TAK
-4334: 577;kfenjpwaqjlqbupuecoxxitonm;6;10;gqrhxdazgtjkwcqovimyd;5;11;uatzamyiumtdknkuxkxnhqofvnf;3;-1;hxdjhiefvmusp;1;-5;oqkluhkhhyrabxycvzwhwd
+4334: 
 4335: TAK
 4336: NIE
 4337: NIE
@@ -4367,7 +4367,7 @@
 4367: NIE
 4368: 56;pbggadottdh;4;10;aqenmkewxmfokyp;10;-5;jncgamxqrufwpdqqulkljr;5;6;mvfyjqpnilt;11;-6;hxdjhiefvmusp;1;-5;oqkluhkhhyrabxycvzwhwd;15;13;rkdzmyjjbssmyzhmtbbrieb;2;-5;tmdlpltpqjkk;1;8;sixqanxfclzdtcuajmzwz;3;-15;atgonbzkivhnttgvql;16;-2;kmzyfqnooqmvygc
 4369: TAK
-4370: TAK
+4370: NIE
 4371: NIE
 4372: NIE
 4373: 991;oqkluhkhhyrabxycvzwhwd;1;-5;hxdjhiefvmusp;11;-6;mvfyjqpnilt;3;6;hhsxkloqguxthvz;11;-1;qufrcvivexzlylkqdeyzvb;5;14;uvivhwudwk;7;8;htxvbkqdaip;2;-14;wjynveringhpwsaovx;2;15;mgklztgyuyisolhoqjbr;3;12;jwbwjnbllrdary;8;6;jncgamxqrufwpdqqulkljr
@@ -4630,7 +4630,7 @@
 4630: TAK
 4631: NIE
 4632: NIE
-4633: TAK
+4633: NIE
 4634: TAK
 4635: NIE
 4636: NIE
@@ -4704,7 +4704,7 @@
 4704: TAK
 4705: NIE
 4706: NIE
-4707: TAK
+4707: NIE
 4708: NIE
 4709: TAK
 4710: NIE
@@ -4726,7 +4726,7 @@
 4726: TAK
 4727: 541;mgklztgyuyisolhoqjbr;2;15;wjynveringhpwsaovx;4;-7;imjhyuehhabqvtbwcxzyio
 4728: TAK
-4729: 956;rkdzmyjjbssmyzhmtbbrieb;2;-5;tmdlpltpqjkk;1;9;sixqanxfclzdtcuajmzwz;3;-15;atgonbzkivhnttgvql;10;-1;wjynveringhpwsaovx
+4729: 
 4730: TAK
 4731: 506;htxvbkqdaip;7;8;uvivhwudwk;3;14;cxcdqlblllfcwos;9;4;pbggadottdh;4;10;aqenmkewxmfokyp;3;-5;imjhyuehhabqvtbwcxzyio;2;12;hbkgzpymdm;8;-4;qufrcvivexzlylkqdeyzvb;11;12;odtrdtehmkxesvjuwsqhcmlubgc;11;10;gqrhxdazgtjkwcqovimyd;5;11;uatzamyiumtdknkuxkxnhqofvnf;3;-1;hxdjhiefvmusp;1;-5;oqkluhkhhyrabxycvzwhwd;15;-1;vtzrturvgpfdbbgno;18;14;rrojvbvhhugvzvfzkfvylinwbc;1;-14;cxykgwdgzbedw;12;-4;tmdlpltpqjkk;1;9;sixqanxfclzdtcuajmzwz;5;9;dsrqxdvpnyqbyzmc;1;11;zfecmlxlibwyewguk;11;4;kmzyfqnooqmvygc;11;6;wjynveringhpwsaovx;2;15;mgklztgyuyisolhoqjbr;2;-1;rkdzmyjjbssmyzhmtbbrieb;11;10;hhsxkloqguxthvz;3;6;mvfyjqpnilt
 4732: TAK
