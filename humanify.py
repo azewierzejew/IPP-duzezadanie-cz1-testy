@@ -52,5 +52,5 @@ if len(sys.argv) < 2:
 lines = open(sys.argv[1], 'r').readlines()
 
 for nr, line in enumerate(lines):
-	print("%d: %s" % (nr, humanify(line)))
+	print("%d: %s" % (nr + 1, humanify(line)))
 	
